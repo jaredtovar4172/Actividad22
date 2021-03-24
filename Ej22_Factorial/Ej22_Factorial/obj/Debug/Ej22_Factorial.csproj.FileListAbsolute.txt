@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej22_Factorial\Ej22_Factorial\bin\Debug\Ej22_Factorial.exe.config
+C:\Users\jared\source\repos\Ej22_Factorial\Ej22_Factorial\bin\Debug\Ej22_Factorial.exe
+C:\Users\jared\source\repos\Ej22_Factorial\Ej22_Factorial\bin\Debug\Ej22_Factorial.pdb
+C:\Users\jared\source\repos\Ej22_Factorial\Ej22_Factorial\obj\Debug\Ej22_Factorial.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej22_Factorial\Ej22_Factorial\obj\Debug\Ej22_Factorial.Form1.resources
+C:\Users\jared\source\repos\Ej22_Factorial\Ej22_Factorial\obj\Debug\Ej22_Factorial.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej22_Factorial\Ej22_Factorial\obj\Debug\Ej22_Factorial.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej22_Factorial\Ej22_Factorial\obj\Debug\Ej22_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej22_Factorial\Ej22_Factorial\obj\Debug\Ej22_Factorial.exe
+C:\Users\jared\source\repos\Ej22_Factorial\Ej22_Factorial\obj\Debug\Ej22_Factorial.pdb
